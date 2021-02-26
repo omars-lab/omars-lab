@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Omar. I like to code. This is my lab.
+
 <!--
 **omars-lab/omars-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
