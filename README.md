@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=omars-lab&bg_color=30,045de9,09c6f9&title_color=fff&text_color=fff)
