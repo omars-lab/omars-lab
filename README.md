@@ -17,10 +17,10 @@
 - 👻 If you peeked into my fears, you will find that a fear of failing is missing. 
 - 📫 If you want to reach me, send me an [email](mailto:contact.omar.eid+github@gmail.com).
 
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=omars-lab&bg_color=30,045de9,09c6f9&title_color=fff&text_color=fff)
 ![Personal Stats](https://github-readme-stats.vercel.app/api/?username=omars-lab&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true&custom_title=Omar%27s%20Personal%20GitHub%20Stats)
 
 <!--
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=omars-lab&bg_color=30,045de9,09c6f9&title_color=fff&text_color=fff)
 ![Personal Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omars-lab&langs_count=9)
 ![Work Stats](https://github-readme-stats.vercel.app/api/?username=oeid-cs&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true&custom_title=Omar%27s%20Career%20GitHub%20Stats)
 ![Work Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeid-cs&langs_count=9)
