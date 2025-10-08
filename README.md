@@ -4,19 +4,18 @@
 
 ### Hi there 👋
 
-- 🔬 My name is Omar. I like to code. Welcome to my lab!
+- 🔬 My name is Omar. I love to build innovative systems that customers love! Welcome to my lab!
 - 🗺 Austin native, with a passion for building valuable tech creatively!
 - 💻 I've been building some cutting-edge AI Solutions for Fortune 500 companies.
-- 🥇 My [BHAG](https://www.jimcollins.com/concepts/bhag.html) is to one day be a key member of a think tank that facilitate the production of valuable tech ideas with global impact.
-- ☕️ In my free time, you can find me brewing lattes, automating my home, coding productivity tools, and making arts-and-crafts programmatically!
-- 💪🏽 I'm great at bringing ideas to life through technology!
-- 🧰 If you monitored my work style, you would an agile practitioner that loves experimenting.
+- 🥇 My [BHAG](https://www.jimcollins.com/concepts/bhag.html) is to one day be a key member of a think tank that facilitates the production of valuable tech ideas with global impact.
+- ☕️ In my free time, you can find me brewing lattes, automating my home, coding productivity tools, and making arts-and-crafts programmatically ([3d prints](https://3d-models.bytesofpurpose.com/), [geometric art](https://art.bytesofpurpose.com/), and more!)!
+- 🧰 If you monitored my work style, you would find an agile practitioner that loves experimenting.
 - 🧠 If you peeked into my mind, you would find a growth-oriented mindset, organized thoughts, and design-thinking all over the walls.
-- 🔥 If you peaked into my passions, you would find a burning desire to build productive technology, and relentless eagerness to learn.
+- 🔥 If you peeked into my passions, you would find a burning desire to build productive technology, and relentless eagerness to learn.
 - 👻 If you peeked into my fears, you will find that a fear of failing is missing. 
 - 🎓 UT Dallas Grad w/ a degree in Computer Engineering & a minor in Business Administration.
 - 📫 If you want to reach me, send me an [email](mailto:contact.omar.eid+github@gmail.com).
-- 📓 Don't forget to checkout out my [portfolio](https://www.bytesofpurpose.com/) and [blog](https://blog.bytesofpurpose.com/).
+- 📓 Don't forget to check out my [portfolio](https://www.bytesofpurpose.com/) and [blog](https://blog.bytesofpurpose.com/).
 
 ### 🧰 Toolbox
 <p align="left">
