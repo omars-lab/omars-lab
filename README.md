@@ -4,20 +4,14 @@
 
 ### Hi there 👋
 
-- 🔬 My name is Omar. Welcome to my lab! Im based out of Austin, Texas.
-- 🧪 I am a fearless experimenter!
-- 🫀 I love building innovative systems that customers love!
-- 📊 I also love to ponder about customer behavior through data!
-- 💻 I've been building AI-powered systems at Fortune 500 scale—from LLM integrations to ML infrastructure. I hold [a patent](https://patents.justia.com/patent/20180232644) in the field!
-- 🥇 My [BHAG](https://www.jimcollins.com/concepts/bhag.html) is to one day be a key member of a think tank that facilitates the production of valuable tech ideas with global impact.
-- ☕️ In my free time, you can find me brewing lattes, automating my home, coding productivity tools, and making arts-and-crafts programmatically ([3d prints](https://3d-models.bytesofpurpose.com/), [geometric art](https://art.bytesofpurpose.com/), and more!)!
-- 🧰 If you monitored my work style, you will find an agile practitioner that loves experimenting.
-- 🧠 If you searched through my mind, you will find a growth-oriented mindset, organized thoughts, design-thinking, and mind maps all over the walls.
-- 🔥 If you measured my passions, you will find a burning desire to build productive technology, and relentless eagerness to learn.
-- 👻 If you peeked into my fears, you won't find a fear of failure.
-- 🎓 UT Dallas Grad w/ a degree in Computer Engineering & a minor in Business Administration.
-- 📫 If you want to reach me, send me an [email](mailto:contact.omar.eid+github@gmail.com).
-- 📓 Don't forget to check out my [portfolio](https://www.bytesofpurpose.com/) and [blog](https://blog.bytesofpurpose.com/).
+- 🔬 My name is Omar. I'm based in Austin, Texas. I build innovative systems that customers love!
+- 💻 Currently architecting AI-powered systems at Fortune 500 scale—from LLM integrations to ML infrastructure. I hold [a patent](https://patents.justia.com/patent/20180232644) in the space.
+- 📊 I love exploring customer behavior through data and bringing insights to life through technology.
+- 🥇 My [BHAG](https://www.jimcollins.com/concepts/bhag.html): Join a think tank that facilitates valuable tech ideas with global impact.
+- ☕️ In my free time: brewing lattes, automating my home, coding productivity tools, and creating art ([3D prints](https://3d-models.bytesofpurpose.com/), [geometric designs](https://art.bytesofpurpose.com/), etc) programmatically!
+- ⛽ **What fuels me**: Growth mindset, design thinking, fearless experimentation, and zero fear of failure.
+- 🎓 UT Dallas grad (Computer Engineering + Business Administration minor)
+- 📫 Reach me via [email](mailto:contact.omar.eid+github@gmail.com) | Check out my [portfolio](https://www.bytesofpurpose.com/) and [blog](https://blog.bytesofpurpose.com/)
 
 ### 🧰 Toolbox
 <p align="left">
