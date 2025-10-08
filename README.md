@@ -4,15 +4,17 @@
 
 ### Hi there 👋
 
-- 🔬 My name is Omar. I love to build innovative systems that customers love! Welcome to my lab!
-- 🗺 Austin native, with a passion for building valuable tech creatively!
-- 💻 I've been building some cutting-edge AI Solutions for Fortune 500 companies.
+- 🔬 My name is Omar. Welcome to my lab! Im based out of Austin, Texas.
+- 🧪 I am a fearless experimenter!
+- 🫀 I love building innovative systems that customers love!
+- 📊 I also love to ponder about customer behavior through data!
+- 💻 I've been building AI-powered systems at Fortune 500 scale—from LLM integrations to ML infrastructure. I hold [a patent](https://patents.justia.com/patent/20180232644) in the field!
 - 🥇 My [BHAG](https://www.jimcollins.com/concepts/bhag.html) is to one day be a key member of a think tank that facilitates the production of valuable tech ideas with global impact.
 - ☕️ In my free time, you can find me brewing lattes, automating my home, coding productivity tools, and making arts-and-crafts programmatically ([3d prints](https://3d-models.bytesofpurpose.com/), [geometric art](https://art.bytesofpurpose.com/), and more!)!
-- 🧰 If you monitored my work style, you would find an agile practitioner that loves experimenting.
-- 🧠 If you peeked into my mind, you would find a growth-oriented mindset, organized thoughts, and design-thinking all over the walls.
-- 🔥 If you peeked into my passions, you would find a burning desire to build productive technology, and relentless eagerness to learn.
-- 👻 If you peeked into my fears, you will find that a fear of failing is missing. 
+- 🧰 If you monitored my work style, you will find an agile practitioner that loves experimenting.
+- 🧠 If you searched through my mind, you will find a growth-oriented mindset, organized thoughts, design-thinking, and mind maps all over the walls.
+- 🔥 If you measured my passions, you will find a burning desire to build productive technology, and relentless eagerness to learn.
+- 👻 If you peeked into my fears, you won't find a fear of failure.
 - 🎓 UT Dallas Grad w/ a degree in Computer Engineering & a minor in Business Administration.
 - 📫 If you want to reach me, send me an [email](mailto:contact.omar.eid+github@gmail.com).
 - 📓 Don't forget to check out my [portfolio](https://www.bytesofpurpose.com/) and [blog](https://blog.bytesofpurpose.com/).
@@ -20,9 +22,9 @@
 ### 🧰 Toolbox
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
