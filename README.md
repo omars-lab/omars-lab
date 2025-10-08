@@ -51,16 +51,15 @@
 [![Prompt Catalog](https://github-readme-stats.vercel.app/api/pin/?username=omars-lab&repo=prompts&description_lines_count=2)](https://github.com/omars-lab/prompts)
 [![Blog](https://github-readme-stats.vercel.app/api/pin/?username=omars-lab&repo=omars-lab.github.io&description_lines_count=2)](https://github.com/omars-lab/omars-lab.github.io)
 
-### Stats
-![Personal Stats](https://github-readme-stats.vercel.app/api/?username=omars-lab&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true&custom_title=Omar%27s%20Personal%20GitHub%20Stats)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <!--
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=omars-lab&bg_color=30,045de9,09c6f9&title_color=fff&text_color=fff)
 ![Personal Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omars-lab&langs_count=9)
+![Personal Stats](https://github-readme-stats.vercel.app/api/?username=omars-lab&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true&custom_title=Omar%27s%20Personal%20GitHub%20Stats)
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=omars-lab&bg_color=30,045de9,09c6f9&title_color=fff&text_color=fff)
+
 ![Work Stats](https://github-readme-stats.vercel.app/api/?username=oeid-cs&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true&custom_title=Omar%27s%20Career%20GitHub%20Stats)
 ![Work Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oeid-cs&langs_count=9)
 -->
